@@ -6,4 +6,4 @@ ComPDFKit PDF SDK is a powerful PDF library for developers to add robust PDF fun
 
 ComPDFKit PDF SDK consists of two elements as shown in the following picture.
 
-![image]https://github.com/techkittt/tech-ios/blob/131d173628a6d3190e2ee3623aa69bcd7224d6d0/image111/ComPDFKit.png
+![image]https://github.com/techkittt/tech-ios/blob/main/image111/ComPDFKit.png
